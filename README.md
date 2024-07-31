@@ -1,4 +1,4 @@
-# Simple Dog App
+#Dog Breed Image API
 
 This is a simple web application that allows users to fetch and view images of various dog breeds using the Dog CEO's Dog API. The application is built using plain HTML, CSS, and JavaScript, and demonstrates basic API integration and responsive design.
 
